@@ -17,6 +17,8 @@ My research interests include
 4. Li Liu, ***Da Chen***(equal contribution), Minglei Shu, Baosheng Li, Huazhong Shu, Michel Paques, Laurent D. Cohen, *Trajectory Grouping with Curvature Regularization for Tubular Structure Tracing*, **IEEE Trans. on Image Processing**, Vol 31, pp. 405-418, 2022.
 5. ***Da Chen***, Jack Spencer, Jean-Marie Mirebeau, Ke Chen, Minglei Shu and Laurent D. Cohen, *A Generalized Asymmetric Dual-front Model for Active Contours and Image Segmentation*, **IEEE Trans. on Image Processing**, Vol. 30, pp. 5056-5071, 2021.
 6. ***Da Chen***, Jian Zhu, Xinxin Zhang, Minglei Shu and Laurent D. Cohen, *Geodesic Paths for Image Segmentation with Implicit Region-based Homogeneity Enhancement*, **IEEE Trans. on Image Processing**, Vol. 30, pp. 5138-5153, 2021.
+7. ***Da Chen***, Jiong Zhang and Laurent D. Cohen, *Minimal Paths for Tubular Structure Segmentation With Coherence Penalty and Adaptive Anisotropy*, **IEEE Trans. Image Processing**, 28(3), pp. 1271-1284, 2019.
+8. ***Da Chen***, Jean-Marie Mirebeau and Laurent D. Cohen, *Global Minimum for a Finsler Elastica Minimal Path Approach*, **IJCV**, 122(3), pp. 458-483, 2017. 
 
 ## Stduents
 1. Yuzhu Sun
